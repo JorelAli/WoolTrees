@@ -1,0 +1,5 @@
+name: WoolTrees
+main: io.github.skepter.wooltrees.Main
+version: 0.1
+description: Create trees out of wool!
+author: Skepter
